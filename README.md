@@ -14,12 +14,12 @@
 <a href="https://github.com/Rizky878/bot-group/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Rizky878/bot-group?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <br>
-<br>Yang pastinya downlaod termux dulu om<br>kalo jalanin di cmd kurang tau hehe<be>
+<br>Downlaod termux dulu<br>kalo pakai cmd kurang tau<be>
 <br><br>## Clone this project
 
 ```bash
 > pkg install git -y
-> git clone https://github.com/Rizky878/bot-group 'botwa'
+> git clone https://github.com/HiraiyaHeku/Hira-bot-group 'botwa'
 ```
 
 ## Install the dependencies:
@@ -58,7 +58,7 @@ you've just cloned!!
 * [`MhankBarBar`](https://github.com/mhankbarbar)
 
 ## Group
-* [`WhatsApp`](https://chat.whatsapp.com/Bad7NEtEshlApv3BGhJ8KO)
+* [`WhatsApp`](https://chat.whatsapp.com/FVc46pWELaq8XR3MpIdXMm)
 ### Donate
 * [`Trakteer`](https://trakteer.id/rizkybot) (Rizky)
-* [`Dana`](088231715470) (Manxtodd)
+* [`Linkaja`](0895618566661) (Hiraiya)
