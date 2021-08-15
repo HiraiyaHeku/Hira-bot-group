@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.tenor.com/images/3e0c7be0cb8e24c389f5e1f78a8f69a5/tenor.gif" width="478" height="374.3373493975904" alt="Anime Pout GIF - Anime Pout Hmph GIFs" style="max-width: 478px; background-color: rgb(63, 63, 63);">
+<img src="https://c.tenor.com/6MsukwHKJ58AAAAS/ara-anime.gif" width="478" height="374.3373493975904" alt="Anime Pout GIF - Anime Pout Hmph GIFs" style="max-width: 478px; background-color: rgb(63, 63, 63);">
 </p>
 <p align="center">
 <a href="#"><img title="bot-group" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
